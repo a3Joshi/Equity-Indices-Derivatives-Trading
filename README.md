@@ -1,5 +1,5 @@
 # Equity-Indices-Derivatives-Trading
-Welcome to my repository! This collection includes various Python scripts and Jupyter notebooks that I've developed for equity, indices, and derivatives trading. Each script is designed to demonstrate different quantitative strategies and techniques I've employed, ranging from sentiment analysis using advanced NLP to technical indicators and high-frequency trading algorithms.
+Welcome to my repository! This collection includes various Python scripts and Jupyter notebooks that I've developed for equity, indices, and derivatives trading , specially INDIA specific. Each script is designed to demonstrate different quantitative strategies and techniques I've employed, ranging from sentiment analysis using advanced NLP to technical indicators and high-frequency trading algorithms.
 
 # Contents
 ## Quantitative Trading Strategies
