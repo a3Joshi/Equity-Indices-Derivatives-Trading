@@ -1,9 +1,8 @@
 # Equity-Indices-Derivatives-Trading
-#Equity, Indices, and Derivatives Trading Strategies
 Welcome to my repository! This collection includes various Python scripts and Jupyter notebooks that I've developed for equity, indices, and derivatives trading. Each script is designed to demonstrate different quantitative strategies and techniques I've employed, ranging from sentiment analysis using advanced NLP to technical indicators and high-frequency trading algorithms.
 
-Contents
-Quantitative Trading Strategies
+# Contents
+## Quantitative Trading Strategies
 
 Implementations of various quantitative trading strategies for equity and indices, such as momentum, mean reversion, and statistical arbitrage.
 Sentiment Analysis
